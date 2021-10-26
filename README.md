@@ -22,3 +22,10 @@ I created this repository with the intent to collect all the scripts in the book
 
 I am starring this awesome repo from EONRaider, that I might use in the case I'll be getting stuck in later sections of the books. Seems fair to add this source as a source of inspiration: <a href="https://github.com/EONRaider/blackhat-python3">EON RIDER Repo</a>
 
+### What you'll find in the repo
+
+#### Chapter 2:
+- bhp_server.py
+- tcp_server.py
+- tcp_client.py
+- udp_client.py
