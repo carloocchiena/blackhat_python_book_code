@@ -113,7 +113,7 @@ def client_sender(buffer):
                 if recv_len < 4096:
                     break
             
-            print (response.decode("utf-8"), end=" ")
+            print(response.decode("utf-8"), end=" ")
 
             #wait for further input and then send it off
             buffer = input("")
@@ -138,7 +138,7 @@ def usage_info():
     print("")
     print("Examples:")
     print("bph_net.py -t 192.168.0.1 -p 555 -l -c")
-    print("bph_net.py -t 192.168.0.1 -p 555 -l -u=c\\target.exe")
+    print("bph_net.py -t 192.168.0.1 -p 555 -l -u=c:\\target.exe")
     print("bph_net.py -t 192.168.0.1 -p 555 -l -e=\"cat /etc/passwd\"")
     print("echo 'ABCDEFHI' |./bhp_net.py -t 192.168.11.12 -p 135")
     sys.exit()
