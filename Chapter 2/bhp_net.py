@@ -137,9 +137,9 @@ def usage_info():
     print("")
     print("")
     print("Examples:")
-    print("bph_net.py -t 192.168.0.1 -p 555 -l -c")
-    print("bph_net.py -t 192.168.0.1 -p 555 -l -u=c:\\target.exe")
-    print("bph_net.py -t 192.168.0.1 -p 555 -l -e=\"cat /etc/passwd\"")
+    print("bhp_net.py -t 192.168.0.1 -p 555 -l -c")
+    print("bhp_net.py -t 192.168.0.1 -p 555 -l -u=c:\\target.exe")
+    print("bhp_net.py -t 192.168.0.1 -p 555 -l -e=\"cat /etc/passwd\"")
     print("echo 'ABCDEFGHI' |./bhp_net.py -t 192.168.11.12 -p 135")
     sys.exit()
 
@@ -190,4 +190,4 @@ def main():
     if listen:
         server_loop()
 
-main()    
+main()     
