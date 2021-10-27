@@ -16,7 +16,7 @@ port = 0
 def run_command(cmd):
     """runs a command and return the output
     """
-    cmd = cmd.strip()
+    cmd = cmd.rstrip()
 
     try:
         output = subprocess.check_output(cmd, stderr=subprocess.STDOUT, shell=True)
