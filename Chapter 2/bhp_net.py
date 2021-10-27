@@ -140,7 +140,7 @@ def usage_info():
     print("bph_net.py -t 192.168.0.1 -p 555 -l -c")
     print("bph_net.py -t 192.168.0.1 -p 555 -l -u=c:\\target.exe")
     print("bph_net.py -t 192.168.0.1 -p 555 -l -e=\"cat /etc/passwd\"")
-    print("echo 'ABCDEFHI' |./bhp_net.py -t 192.168.11.12 -p 135")
+    print("echo 'ABCDEFGHI' |./bhp_net.py -t 192.168.11.12 -p 135")
     sys.exit()
 
 def main():
