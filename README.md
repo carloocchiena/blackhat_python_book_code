@@ -27,7 +27,15 @@ I am starring this awesome repo from EONRaider for reference, that I might use i
 ### What you'll find in the repo
 
 #### Chapter 2:
+- bhp_net.py
 - bhp_server.py
+- bhp_reverse_ssh_cmd.py
+- bhp_ssh_cmd.py
+- rforward.py
 - tcp_server.py
 - tcp_client.py
+- tcp_proxy.py
 - udp_client.py
+- test_rsa.key
+
+#### Chapter 3:
