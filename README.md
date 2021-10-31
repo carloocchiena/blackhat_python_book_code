@@ -45,3 +45,9 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - test_rsa.key
 
 #### Chapter 3: Sniffing Tools
+- scanner.py
+- sniffer.py
+- sniffer_ip_header_decode.py
+- sniffer_with_icmp.py
+
+
