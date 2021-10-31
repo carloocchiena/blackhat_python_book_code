@@ -24,7 +24,7 @@ Since I had to convert all the source codes anyway, to run them on my machine (K
 
 I starred this awesome repo from EONRaider for reference, that I might use in the case I'll be getting stuck in later sections of the books. Seems fair to add this source as a source of inspiration: <a href="https://github.com/EONRaider/blackhat-python3">EON RIDER Repo</a>
 
-The code in the book does not run flawless. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. <br>So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">thread already opened on Stack Overflow</a>
+The code in the book does not run flawless. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. <br>So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>
 
 ### What you'll find in the repo
 Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
