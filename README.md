@@ -30,7 +30,7 @@ The code in the book does not run flawless. It may depends on the local configur
 Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
 
 #### Chapter 1: Intro
-- This is an introductory chapter and it's mostly about installing Linux VM and Python. No code here.
+- This is an introductory chapter and it's mostly about installing Linux VM and Python. No coding here.
 
 #### Chapter 2: Networking basics
 - bhp_net.py
