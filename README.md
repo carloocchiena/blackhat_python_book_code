@@ -1,34 +1,36 @@
 # Code and exercises from the book "Black Hat Python: Python Programming for Hackers and Pentesters" 
-Examples and exercises from the book "Black Hat Python" by Justin Seitz.
+Examples, source code and exercises from the book "Black Hat Python" by Justin Seitz.
 
 ![image](https://user-images.githubusercontent.com/57464184/138901408-984413ab-2648-4dbe-b40c-37ac7b59fc63.png)
 
 
 ### About the book
-The book is something of a milestone for the pentesting world in Python.
-Although it was published relatively recently (2014), it is all written in Python 2.7.
+The book is a sort of a milestone for the pentesting world in Python.<br>
+Although it was published relatively recently (2014), it is all written in Python 2.7.<br>
 
-You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW#customerReviews">Amazon</a>.
+You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW#customerReviews">Amazon</a>. <br>
 
-While the official book page is on<a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.
+While the official book page is on <a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.<br>
 
-Apparently you should be able to download the book's source code from there, but the link atm is not working.
+Apparently you should be able to download the book's source code from there, but the link atm is not working.<br>
  
 ### Reason for this repo
-I quite enjoyed the book, but being written in Python 2.7 make it severely outdated.
+I quite enjoyed the book, but being written in Python 2.7 make it severely outdated.<br>
 
-Deliberately, as expressed by the author, the scripts are written raw & dirty to simulate the "as long as it works" approach during a penetration testing.
-However, this sometimes leads to code that is not very understandable, and not very efficient.
+Deliberately, as expressed by the author, the scripts are written _raw & dirty_ to simulate the "as long as it works" approach during a penetration testing.<br>
+However, this sometimes leads to code that is not very understandable, and not very efficient.<br>
 
 Since I had to convert all the source codes anyway, to run them on my machine (Kali Linux VM + Win10 + Python 3.9) I decided to go extra-mile and save them in a repo, in the meantime trying to optimize the code and making it a little more elegant (syntax, forms, error catching, unsupported libraries, naming conventions of both files and variables).
 
-I am starring this awesome repo from EONRaider for reference, that I might use in the case I'll be getting stuck in later sections of the books. Seems fair to add this source as a source of inspiration: <a href="https://github.com/EONRaider/blackhat-python3">EON RIDER Repo</a>
+I starred this awesome repo from EONRaider for reference, that I might use in the case I'll be getting stuck in later sections of the books. Seems fair to add this source as a source of inspiration: <a href="https://github.com/EONRaider/blackhat-python3">EON RIDER Repo</a>
 
 ### What you'll find in the repo
+Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
 
-#### Chapter 2:
+#### Chapter 1: Intro
+- This is an introductory chapter and it's mostly about installing Linux VM and Python. No code here.
 
-#### Chapter 2:
+#### Chapter 2: Networking basics
 - bhp_net.py
 - bhp_server.py
 - bhp_reverse_ssh_cmd.py
