@@ -59,4 +59,8 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - sniffer_ip_header_decode.py
 - sniffer_with_icmp.py
 
-#### Chapter 4:
+#### Chapter 4: Scapy & ARP Poisoning (with an extra flavour of image reco)
+- arper.py
+- mail_sniffer.py
+- pic_carver.py
+
