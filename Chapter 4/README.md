@@ -8,5 +8,8 @@ The cv2 module is now replaced by open-cv python. See: <br>
 Another source cited in the book is https://fideloper.com/facial-detection; 
 <br>here, you can also download the data for the training set: https://eclecti.cc/files/2008/03/haarcascade_frontalface_alt.xml
 
-if you're not familiar with open-cv module, this part will result quite bumpy (also, the book goes thru this section without much explanation)
+if you're not familiar with open-cv module, this part will result quite bumpy (also, the book goes thru this section without much explanation). <br>
+
+As a personal note, the use case proposed by the book - scan for faces in attached images - looks uninteresting. There would have been more interesting cases, such as understanding what type of attachment is attached to an email, or the size of it. Something to work on in the future.
+                                                                                                                                                  
 
