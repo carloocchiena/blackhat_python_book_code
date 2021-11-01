@@ -1,3 +1,5 @@
+## Notes for this chapter of the book
+
 Scapy for Python3 is commonly found under Kamene libs https://kamene.readthedocs.io/en/latest/introduction.html
 The cv2 module is now replaced by open-cv python. See: <br>
 - https://pypi.org/project/opencv-python/
