@@ -27,13 +27,14 @@ I starred this awesome repo from EONRaider for reference, that I might use in th
 The code in the book does not always run flawlessy. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>.
 
 ### Improvement made from the book's code
-- Refactoring to Python 3 (tested)
+- Refactoring to Python 3 and code testing (unless otherwise specified)
 - Update to PEP8 standards
 - Upgraded readability (es. comments, indentation, variables name)
 - Update of obsolete methods (es. print -s %)
 - Better context management (es. open with, server.close()) 
 - Disregard of unsupported libs 
-- Minor tweaks and bugs found while testing the code
+- Minor tweaks and bugs found while testing the code 
+- Search for additional files requested throughout the book and not provided, or provided at outdated links, and included in individual chapters.
 
 ### What you'll find in the repo
 Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
