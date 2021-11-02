@@ -29,9 +29,9 @@ The code in the book does not always run flawlessy. It may depends on the local 
 ### Improvement made from the book's code
 - Refactoring to Python 3 (tested)
 - Update to PEP8 standards
-- Upgraded readability (comments, indentation, variables name)
+- Upgraded readability (es. comments, indentation, variables name)
 - Update of obsolete methods (es. print -s %)
-- Better context management (open with, server.close()) 
+- Better context management (es. open with, server.close()) 
 - Disregard of unsupported libs 
 - Minor tweaks and bugs found while testing the code
 
@@ -63,4 +63,10 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - arper.py
 - mail_sniffer.py
 - pic_carver.py
+
+#### Chapter 5: CMS Brute Force
+- content_bruter.py
+- joomla_killer.py
+- web_app_mapper.py
+
 
