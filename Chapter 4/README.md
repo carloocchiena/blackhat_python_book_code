@@ -15,6 +15,6 @@ If you're not familiar with open-cv module, this part will result quite bumpy (a
 
 As a personal note, the use case proposed by the book - scan for faces in attached images - looks uninteresting. There would have been more interesting cases, such as understanding what type of attachment is attached to an email, or the size of it. Something to work on in the future.
 
-At current date I wasn't willing to deep test this part of the code, so I am leaving it up for the future.
+At current date I had no time yet to deep test this part of the code, so I am leaving it up for the future.
                                                                                                                                                   
 
