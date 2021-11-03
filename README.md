@@ -24,7 +24,7 @@ Since I had to convert all the source codes anyway, to run them on my machine (K
 
 I starred this awesome repo from EONRaider for reference, that I might use in the case I'll be getting stuck in later sections of the books. Seems fair to add this source as a source of inspiration: <a href="https://github.com/EONRaider/blackhat-python3">EON RIDER Repo</a>
 
-The code in the book does not always run flawlessy. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>.
+The code in the book does not always run flawlessy. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>. Some good advices also from <a href="https://medium.com/search?q=black%20hat%20python">Medium Black Hat Python</a>.
 
 ### Improvement made from the book's code
 - Refactoring to Python 3 and code testing (unless otherwise specified)
@@ -70,4 +70,8 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - joomla_killer.py
 - web_app_mapper.py
 
+### Contributions
+All contributions are generally welcome.
+Since I have not (yet?) made a specific routine for that, please follow a best-practice, common-sense based approach, opening an Issue first and starting a discussion on the change you'd wish to make.
+In each chapter folder I stated any known issues if any. 
 
