@@ -3,7 +3,7 @@ Examples, source code and exercises from the book "Black Hat Python" by Justin S
 
 ![image](https://user-images.githubusercontent.com/57464184/138901408-984413ab-2648-4dbe-b40c-37ac7b59fc63.png)
 
-
+--------------------------------
 ### About the book
 The book is a sort of a milestone for the pentesting world in Python.<br>
 Although it was published relatively recently (2014), it is all written in Python 2.7.<br>
