@@ -70,6 +70,11 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - joomla_killer.py
 - web_app_mapper.py
 
+#### Chapter 6: Burp Suite Integrations 
+- bhp_bing.py
+- bhp_fuzzer.py
+- bhp_wordlist.py
+
 ### Contributions
 All contributions are generally welcome :).<br>
 Since I have not (yet?) made a specific routine for that, please follow a best-practice, common-sense based approach, opening an Issue first and starting a discussion on the change you'd wish to make.<br>
