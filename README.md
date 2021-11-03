@@ -71,7 +71,7 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - web_app_mapper.py
 
 ### Contributions
-All contributions are generally welcome.
-Since I have not (yet?) made a specific routine for that, please follow a best-practice, common-sense based approach, opening an Issue first and starting a discussion on the change you'd wish to make.
-In each chapter folder I stated any known issues if any. 
+All contributions are generally welcome :).<br>
+Since I have not (yet?) made a specific routine for that, please follow a best-practice, common-sense based approach, opening an Issue first and starting a discussion on the change you'd wish to make.<br>
+As a starting point, in each chapter folder I stated any known issues if any. <br>
 
