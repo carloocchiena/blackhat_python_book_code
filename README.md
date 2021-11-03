@@ -13,7 +13,9 @@ You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Program
 While the official book page is on <a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.<br>
 
 Apparently you should be able to download the book's source code from there, but the link atm is not working.<br>
- 
+
+--------------------------------
+
 ### Reason for this repo
 I quite enjoyed the book, but being written in Python 2.7 make it severely outdated.<br>
 
@@ -26,6 +28,8 @@ I starred this awesome repo from EONRaider for reference, that I might use in th
 
 The code in the book does not always run flawlessy. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>. Some good advices also from <a href="https://medium.com/search?q=black%20hat%20python">Medium Black Hat Python</a>.
 
+--------------------------------
+
 ### Improvement made from the book's code
 - Refactoring to Python 3 and code testing (unless otherwise specified)
 - Update to PEP8 standards
@@ -35,6 +39,8 @@ The code in the book does not always run flawlessy. It may depends on the local 
 - Disregard of unsupported libs 
 - Minor tweaks and bugs found while testing the code 
 - Search for additional files requested throughout the book and not provided, or provided at outdated links, and included in individual chapters.
+
+--------------------------------
 
 ### What you'll find in the repo
 Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
@@ -74,6 +80,8 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - bhp_bing.py
 - bhp_fuzzer.py
 - bhp_wordlist.py
+
+--------------------------------
 
 ### Contributions
 All contributions are generally welcome :).<br>
