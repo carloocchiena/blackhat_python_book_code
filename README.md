@@ -25,7 +25,7 @@ I quite enjoyed the book, but being written in Python 2.7 make it severely outda
 Deliberately, as expressed by the author, the scripts are written _raw & dirty_ to simulate the "as long as it works" approach during a penetration testing.<br>
 However, this sometimes leads to code that is not very understandable, and not very efficient.<br>
 
-Since I had to convert all the source codes anyway, to run them on my machine (Kali Linux VM + Win10 OS + Win10 VM + Python 3.9) I decided to go extra-mile and save them in a repo, in the meantime trying to optimize the code and making it a little more elegant (syntax, forms, error catching, unsupported libraries, naming conventions of both files and variables).
+Since I had to convert all the source codes anyway, to run them on my machine (Kali Linux VM + Win10 OS + Win10 VM + Python 3.9) I decided to go extra-mile and save them in a repo, in the meantime trying to optimize the code and making it a little more elegant (see below).
 
 The code in the book does not always run flawlessy. It may depends on the local configuration on your machine, the test you are running, and also, outdated code presented in the book. So expect a bit of tweak here and there.<br> As a rule of thumb I found of great help the many <a href="https://stackoverflow.com/search?q=black+hat+python+book">threads already opened on Stack Overflow</a>.<br> 
 Some good advices also from <a href="https://medium.com/search?q=black%20hat%20python">Medium Black Hat Python</a>.<br>
