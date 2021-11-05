@@ -9,6 +9,6 @@ For this chapter in particular I had a confrontation with EON Raider repository 
 
 This chapter is also dedicated to show some git commands run from shell; this part has not been reproduced (obviously) here. <br>
 
-The 'imp' library the author is using is officially deprecated. You can go with importlib or even types. <br> 
+The `imp` library the author is using is officially deprecated. You can go with `importlib` or even `types`. <br> 
 See https://docs.python.org/3/library/imp.html <br>
 The Github wrapper could be found here https://github.com/copitux/python-github3
