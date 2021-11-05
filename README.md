@@ -47,7 +47,8 @@ I also starred this awesome repo from EONRaider for reference, that I might use 
 --------------------------------
 
 ### What you'll find in the repo
-Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.
+Chapter summary and titles are my own, for clarity. The book uses different titles and has no chapter summary.<br>
+When needed, an additional `README.md`has been added inside each chapter folder for clarification and further details. 
 
 #### Chapter 1: Intro
 - This is an introductory chapter and it's mostly about installing Linux VM and Python. No coding here.
