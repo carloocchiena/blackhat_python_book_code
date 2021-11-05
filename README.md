@@ -52,7 +52,7 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 #### Chapter 1: Intro
 - This is an introductory chapter and it's mostly about installing Linux VM and Python. No coding here.
 
-#### Chapter 2: Networking basics
+#### Chapter 2: Networking Basics
 - bhp_net.py
 - bhp_server.py
 - bhp_reverse_ssh_cmd.py
