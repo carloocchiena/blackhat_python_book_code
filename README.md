@@ -84,6 +84,10 @@ Chapter summary and titles are my own, for clarity. The book uses different titl
 - bhp_fuzzer.py
 - bhp_wordlist.py
 
+#### Chapter 7: GitHub Trojan
+- folder structure
+- git_trojan.py
+
 --------------------------------
 
 ### Contributions
