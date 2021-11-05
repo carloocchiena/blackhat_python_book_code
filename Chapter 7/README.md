@@ -5,6 +5,11 @@ This chapter is about a trojan interacting with our Github repo for updates.<br>
 Since this book is about pentesting and security, I would be sure your GitHub account should have a 2FA. In that case you need to create a personal access token. It's not hard and you could follow along the instructions from GitHub itself https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token. 
 
 The book suggest to create a folder structure within a test repository. I created this as well in this section, following along book instructions.<br>
+
+- `config` directory holds configuration files that will be identified for each trojan.
+- `modules` directory contains any modular code that you want the trojan to pickup and execute.
+- `data` will holds keystrokes, screenshots, and any retrieved materials from the trojan (or that you'd like to feed the trojan).
+
 Usual amount of optimization and cleaning was needed. The author seems to rush along every chapter leaving a lot of gaps here and there.<br>
 
 For this chapter in particular I had a confrontation with <a href="https://github.com/EONRaider/blackhat-python3">EON</a> repo to double check I got to a reasonable\correct routine.<br>
