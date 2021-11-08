@@ -3,9 +3,9 @@
 #### keylogger.py
 This script requires `pyHook` library, that is not compatible with newer versions of Python. 
 
-Check for details (and, in the case, updated answers <a href="https://stackoverflow.com/questions/59968523/unable-to-install-pyhook-python-3-8-1">Stack Overflow - pyHook issues.</a>)<br>
+Check for details (and, in the case, updated answers on <a href="https://stackoverflow.com/questions/59968523/unable-to-install-pyhook-python-3-8-1">Stack Overflow - pyHook issues.</a>)<br>
 
-You have two way ahead:
+You have two ways ahead:
 - Search for a wheel file appropriate for the Python version you are running here https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook 
 - Use <a href="https://libraries.io/pypi/pyWinhook">pyWinhook</a>, a pyHook fork with some updates for support latest Visual Studio compilers.<br> 
 Two methods here:<br>
