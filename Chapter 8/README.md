@@ -10,7 +10,8 @@ You have two ways ahead:
 - Use <a href="https://libraries.io/pypi/pyWinhook">pyWinhook</a>, a pyHook fork with some updates for support latest Visual Studio compilers.<br> 
 Two methods here:<br>
 ____ a) `pip install pyWinhook==1.6.2`<br>
-____ b) `python -m pip install pyWinhook-1.6.2-cp38-cp38-win_amd64.whl`<br>
+____ b) `python -m pip install pyWinhook-1.6.2-cp38-cp38-win_amd64.whl`<br><br>
+
 I would like to switch to `keyboard` module in order to bypass all this mess, but at the moment I am not able to reproduce the exact workflow offered by the book without going thru pyHook.
 
 #### shell_exec.py
