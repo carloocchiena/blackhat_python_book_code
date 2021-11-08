@@ -1,6 +1,6 @@
 ### Notes for the reader
 
-### keylogger.py
+#### keylogger.py
 This script requires `pyHook` library, that is not compatible with newer versions of Python. 
 You have two way ahead:
 - search for a wheel file appropriate for the Python version you are running here https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook 
