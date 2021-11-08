@@ -90,6 +90,12 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - folder structure
 - git_trojan.py
 
+#### Chapter 8: Trojan for Windows OS
+- keylogger.py
+- sandbox_detector.py
+- shell_exec.py
+
+
 --------------------------------
 
 ### Contributions
