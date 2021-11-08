@@ -12,7 +12,8 @@ Two methods here:<br>
 ____ a) `pip install pyWinhook==1.6.2`<br>
 ____ b) `python -m pip install pyWinhook-1.6.2-cp38-cp38-win_amd64.whl`<br><br>
 
-I would like to switch to `keyboard` module in order to bypass all this mess, but at the moment I am not able to reproduce the exact workflow offered by the book without going thru pyHook.
+I would like to switch to `keyboard` module in order to bypass all this mess, but at the moment I am not able to reproduce the exact workflow offered by the book without going thru pyHook.<br>
+ps. if the topic is of your interested, check my keylogger for Power Shell here: https://gist.github.com/carloocchiena/316234e45f67ca63f07620e15e7dfaef
 
 #### shell_exec.py
 Be carefull to base64 encode your raw shellcode script before hosting it on localhost<br>
