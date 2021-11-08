@@ -3,6 +3,9 @@ import pythoncom
 import pyHook
 import win32clipboard
 
+# alternative if you have issues with pyHook on Win10:
+# import pyWinhook as pyHook
+
 user32 = windll.user32
 kernel32 = windll.kernel32
 psapi = windll.psapi
