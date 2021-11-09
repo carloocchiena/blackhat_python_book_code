@@ -93,6 +93,7 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 #### Chapter 8: Trojan for Windows OS
 - keylogger.py
 - sandbox_detector.py
+- screenshotter.py
 - shell_exec.py
 
 
