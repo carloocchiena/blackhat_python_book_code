@@ -2,5 +2,5 @@
 
 - The cryptography library used in the book (`pycrypto`) is deprecated. I used `pycryptodome` instead (further readings: https://blog.sqreen.com/stop-using-pycrypto-use-pycryptodome/)
 <br><br>
-- `mitb.py` stands for "Man-in-the-Browser" :)
+- `mitb.py` stands for "Man-in-the-Browser" :) and yes, the book built it for Internet Explorer. 
 
