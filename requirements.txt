@@ -3,4 +3,5 @@ kamene~=0.32
 github3.py~=1.2.0
 opencv-python~=4.5.4
 paramiko~=2.8.0
+pywin32~=302
 pyWinhook~=1.6.2
