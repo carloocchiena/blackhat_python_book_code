@@ -96,6 +96,8 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - screenshotter.py
 - shell_exec.py
 
+#### Chapter 9: Hacking trhu Internet Explorer
+
 
 --------------------------------
 
