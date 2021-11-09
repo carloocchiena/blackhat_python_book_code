@@ -23,3 +23,7 @@ then run (on your linux shell):<br>
 `user$ base64 -i shellcode.raw >`<br>
 `shellcode.bin`<br>
 `user$ python -m http.server 8000`<br>
+
+#### screenshotter.py
+- the win32 import issues solved thanks to this answer: https://stackoverflow.com/questions/44063350/python-no-module-named-win32gui-after-installing-pywin32?rq=1
+
