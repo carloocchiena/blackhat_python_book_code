@@ -8,5 +8,5 @@
 
 - `cred_server.py` requires manual approval by firewall on Win10, so it is currently of little use.
 
-- as a personal opinion, this section of the book seems outdated already for the publication date of the book.
+- As a personal opinion, this section of the book seems outdated already for the publication date of the book.
 
