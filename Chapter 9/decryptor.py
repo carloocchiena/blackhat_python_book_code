@@ -3,8 +3,6 @@ import base64
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 
-encrypted = b"""AAAAgMom/1a/v0lblO2Ubrt60J2gcuXSljGFQXgcyZWveWLEwo6prwgi3iJIZdodyhKZQrNWp5nKJ3srRXcUW+F1BD3baEVGcmEgqaLZUNBjm057pKRI16kB0YppeGx5qIQ5QjKzsR8ETQbKLNWgRY0QRNVz34kMJR3P/LgHax/6rmf5AAAAAwEAAQ=="""
-
 # private key is from keygen.py
 private_key = """-----BEGIN RSA PRIVATE KEY-----\n
 MIIEowIBAAKCAQEA4WAcB2b4/4DyX9fb2p18qy9JZYEr/GvVqbTyz9BZKpaA5yGa\n
