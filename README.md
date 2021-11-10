@@ -97,6 +97,11 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - shell_exec.py
 
 #### Chapter 9: Hacking thru Internet Explorer
+- cred_server.py
+- decryptor.py
+- ie_exfil.py
+- keygen.py
+- mitb.py
 
 
 --------------------------------
