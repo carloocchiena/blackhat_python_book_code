@@ -12,7 +12,7 @@ You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Program
 
 While the official book page is on <a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.<br>
 
-You should be able to download the book's source code from here http://www.nostarch.com/download/BHP-Code.zip, but apparently the link is broken or the file has been deleted (checked November 2021).<br>
+You should be able to download the book's source code from here http://www.nostarch.com/download/BHP-Code.zip, but apparently the link is broken or the file has been deleted (checked October 2021).<br>
 Please note that I did the whole job straight from book pages with no codes available (and believe me, my nearsightedness did not appreciate XD).<br>
 
 No Starch Press is offering also an Errata Corrige on the book code, but at the moment (November 2021) this section is actually 3 rows long :).
