@@ -3,6 +3,9 @@ kamene~=0.32
 github3.py~=1.2.0
 opencv-python~=4.5.4
 paramiko~=2.8.0
+pbr~=5.7.0
 pycryptodome~=3.11.0
+PyMI~=1.0.6
 pywin32~=302
 pyWinhook~=1.6.2
+six==1.16.0
