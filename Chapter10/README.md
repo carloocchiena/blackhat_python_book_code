@@ -4,3 +4,4 @@
 - `PyMI` provides a Python native module wrapper over the Windows Management Infrastructure (MI) API. It includes also a drop-in replacement for the Python WMI module used in the book, proving much faster execution times and no dependency on pywin32. Get it with `pip install PyMI`.
 - Had some issues with `import wmi`. You may check here: https://stackoverflow.com/questions/20654047/cant-import-wmi-python-module
 - Testing for this chapter is not finished. I am surely able to grab the process in `file_monitor.py` but had not yet successfully tested an injection. 
+- Let me say that, after going thru 90% of the book, the author offer just zero advice on even most common issues and troubleshooting. 
