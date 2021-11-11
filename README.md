@@ -103,6 +103,10 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - keygen.py
 - mitb.py
 
+#### Chapter 10: Windows Process Monitoring and File Injection
+- file_monitor.py
+- process_monitor.py
+
 
 --------------------------------
 
