@@ -80,6 +80,7 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - content_bruter.py
 - joomla_killer.py
 - web_app_mapper.py
+- wordpress_killer.py
 
 #### Chapter 6: Burp Suite Integrations 
 - bhp_bing.py
