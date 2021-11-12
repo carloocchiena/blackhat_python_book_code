@@ -8,3 +8,7 @@ The book explain a very little-to-none about how to use Volatility. Here are som
 - https://github.com/volatilityfoundation/volatility/wiki
 - This is specific if you're running win10 https://blog.cyberhacktics.com/memory-forensics-on-windows-10-with-volatility/ 
 
+Also, dealing with Windows registry, those should come in handy:
+- https://www.top-password.com/blog/tag/windows-sam-registry-file/ 
+- https://en.wikipedia.org/wiki/Security_Account_Manager
+- https://ad-pdf.s3.amazonaws.com/Registry%20Offsets%209-8-08.pdf
