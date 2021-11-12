@@ -42,7 +42,8 @@ I also starred this awesome repo from EONRaider for reference, that I might use 
 - Better context management (es. open with, server.close()) 
 - Disregard of unsupported libs 
 - Minor tweaks and bugs found while testing the code 
-- Search for additional files requested throughout the book and not provided, or provided at outdated links, and included in individual chapters.
+- Search for additional files requested throughout the book and not provided, or provided at outdated links, and included in individual chapters
+- Additional information and resources that I searched for and found useful as I made my way through the book
 
 --------------------------------
 
