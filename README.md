@@ -20,7 +20,7 @@ No Starch Press is offering also an Errata Corrige on the book code, but at the 
 --------------------------------
 
 ### Reason for this repo
-I quite enjoyed the book, but being written in Python 2.7 make it severely outdated.<br>
+I quite enjoyed the book, but as 2021 it looks quite outdated, not just for the choice of using Python 2.7.<br>
 
 Deliberately, as expressed by the author, the scripts are written _raw & dirty_ to simulate the "as long as it works" approach during a penetration testing.<br>
 However, this sometimes leads to code that is not very understandable, and not very efficient.<br>
