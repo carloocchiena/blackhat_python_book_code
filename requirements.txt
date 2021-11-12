@@ -1,6 +1,6 @@
 burpsuite~=0.0.3
-kamene~=0.32
 github3.py~=1.2.0
+kamene~=0.32
 opencv-python~=4.5.4
 paramiko~=2.8.0
 pbr~=5.7.0
