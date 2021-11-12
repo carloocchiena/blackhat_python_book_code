@@ -108,6 +108,10 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 - file_monitor.py
 - process_monitor.py
 
+#### Chapter 11: Windows Forensics
+- grab_hashes.py
+- code_coverage.py
+- grab_hashes.py
 
 --------------------------------
 
