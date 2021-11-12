@@ -21,7 +21,6 @@ def get_words():
         words.put(word)
     return words
 
-
 def get_params(content):
     params = dict()
     parser = etree.HTMLParser()
@@ -31,7 +30,6 @@ def get_params(content):
         if name is not None:
             params[name] = elem.get('value', None)
     return params
-
 
 class Bruter:
     def __init__(self, username, url):
@@ -65,7 +63,6 @@ class Bruter:
                 print("Username is %s" % self.username)
                 print("Password is %s\n" % passwd)
                 self.found = True
-
 
 if __name__ == '__main__':
     b = Bruter(ADMIN, TARGET)
