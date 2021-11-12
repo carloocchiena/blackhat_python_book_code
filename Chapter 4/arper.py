@@ -99,8 +99,3 @@ finally:
     restore_target(tgt_gateway, tgt_gateway_mac, tgt_ip, tgt_mac)
 
 sys.exit()
-
-
-
-
-
