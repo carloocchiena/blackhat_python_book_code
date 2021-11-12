@@ -13,7 +13,8 @@ The book explain a very little-to-none about how to use Volatility. Here are som
 
 #### Immunity Debugger 
 
-You can get Immunity Debugger (required to finalize the last pj) here https://www.immunityinc.com/products/debugger/. To use the `immlib` module required for the code, you could follow this: 
+You can get Immunity Debugger (required to finalize the last pj) here https://www.immunityinc.com/products/debugger/.<br> 
+To use the `immlib` module required for the code, you could follow this: 
 
   `import sys`<br>
   `sys.path.append('C:/Program Files (x86)/Immunity Inc/Immunity Debugger')`<br>
