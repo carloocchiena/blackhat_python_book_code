@@ -2,11 +2,11 @@
 - You need Volatility for this chapter. Get it here https://code.google.com/archive/p/volatility/ or even better check https://github.com/volatilityfoundation/volatility. For easy ref the zip file is included here too. You can both install it or run the `vol.py` standalone in your fav folder.
 - You can get Immunity Debugger (required to finalize the last pj) here https://www.immunityinc.com/products/debugger/. To use the `immlib` module required for the code, you could follow this: 
 
-`import sys`<br>
-`sys.path.append('C:/Program Files (x86)/Immunity Inc/Immunity Debugger')`<br>
-`sys.path.append('C:/Program Files (x86)/Immunity Inc/Immunity Debugger/Libs')`<br>
+  `import sys`<br>
+  `sys.path.append('C:/Program Files (x86)/Immunity Inc/Immunity Debugger')`<br>
+  `sys.path.append('C:/Program Files (x86)/Immunity Inc/Immunity Debugger/Libs')`<br>
 
-`import immlib`<br>
+  `import immlib`<br>
 
 The book explain a very little-to-none about how to use Volatility. Here are some useful resources: 
 -https://support.eset.com/en/kb380-how-do-i-generate-a-memory-dump-manually
