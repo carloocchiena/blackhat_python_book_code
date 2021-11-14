@@ -5,7 +5,7 @@ Examples, source code and exercises from the book "Black Hat Python" by Justin S
 
 --------------------------------
 ### About the book
-The book is a sort of a milestone for pentesting with Python.<br>
+The book is a milestone for pentesting with Python.<br>
 Although its publication is quite recent (2014), it is all written in Python 2.7.<br>
 
 You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW#customerReviews">Amazon</a>. 
