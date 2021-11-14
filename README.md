@@ -36,7 +36,7 @@ I also starred this repo from EONRaider for reference, that I might use in the c
 ### Improvement made from the book's code
 - Refactoring to Python 3 and code testing (unless otherwise specified)
 - Update to PEP8 standards
-- Upgraded readability (es. comments, indentation, variables name)
+- Upgraded readability (es. comments, indentation, variable names, file names)
 - Update of obsolete methods (es. print -s %)
 - Better context management (es. open with, server.close()) 
 - Disregard of unsupported libs 
