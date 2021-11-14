@@ -8,8 +8,8 @@ Examples, source code and exercises from the book "Black Hat Python" by Justin S
 The book is a milestone for pentesting with Python.<br>
 Although its publication is quite recent (2014), it is all written in Python 2.7.<br>
 
-You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW#customerReviews">Amazon</a>. 
-While the official book page is on <a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.<br>
+You can find the book on <a href="https://www.amazon.it/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW#customerReviews">Amazon</a>, 
+while the official book page is on <a href="https://nostarch.com/black-hat-python2E#updates">No Starch Press</a> website.<br>
 
 You should be able to download the book's source code from here http://www.nostarch.com/download/BHP-Code.zip, but apparently the link is broken or the file has been deleted (checked October 2021).<br>
 Please note that I did the whole job straight from book pages with no codes available (and believe me, my nearsightedness did not appreciate XD).<br>
