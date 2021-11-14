@@ -21,7 +21,7 @@ No Starch Press is offering also an Errata Corrige on the book code, but at the 
 ### Reason for this repo
 I quite enjoyed the book, but as 2021 it looks quite outdated, not just for the choice of using Python 2.7.<br>
 
-Deliberately, as expressed by the author, the scripts are written _raw & dirty_ to simulate the "as long as it works" approach during a penetration testing.<br>
+Deliberately, as expressed by the author, the scripts are written _raw & dirty_ to simulate the approach he uses during a penetration testing.<br>
 However, this sometimes leads to code that is not very understandable, and not very efficient.<br>
 
 Since I had to convert all the source codes anyway, to run them on my machine (Kali Linux VM + Win10 OS + Win10 VM + Python 3.9) I decided to go extra-mile and save them in a repo, in the meantime trying to optimize the code and making it a little more elegant (see below).
