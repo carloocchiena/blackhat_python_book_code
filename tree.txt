@@ -1,0 +1,684 @@
+Elenco del percorso delle cartelle per il volume Personale Carlo D:
+Numero di serie del volume: E81A-5A30
+D:.
+|   BHPCode.zip
+|   process_monitor_log.csv
+|   tree.txt
+|   
++---Chapter 10
+|       file_monitor.py
+|       process_monitor.py
+|       
++---Chapter 11
+|   |   code_coverage.py
+|   |   code_inject.py
+|   |   grab_hashes.py
+|   |   volatility3-1.0.0.zip
+|   |   
+|   \---volatility3-1.0.0
+|       \---volatility3-1.0.0
+|           |   .gitignore
+|           |   .readthedocs.yml
+|           |   .style.yapf
+|           |   LICENSE.txt
+|           |   MANIFEST.in
+|           |   mypy.ini
+|           |   README.md
+|           |   setup.py
+|           |   vol.py
+|           |   vol.spec
+|           |   volshell.py
+|           |   volshell.spec
+|           |   
+|           +---.github
+|           |   +---ISSUE_TEMPLATE
+|           |   |       bug_report.md
+|           |   |       feature_request.md
+|           |   |       
+|           |   \---workflows
+|           |           build-pypi.yml
+|           |           
+|           +---development
+|           |   |   centos-kernels.txt
+|           |   |   compare-vol.py
+|           |   |   debian-kernels.txt
+|           |   |   fedora-kernels.txt
+|           |   |   jsonschema.schema
+|           |   |   pdbparse-to-json.py
+|           |   |   schema_validate.py
+|           |   |   stock-linux-json.py
+|           |   |   __init__.py
+|           |   |   
+|           |   \---mac-kdk
+|           |           extract_kernel.sh
+|           |           generate_json.sh
+|           |           parse_pbzx2.py
+|           |           
+|           +---doc
+|           |   |   make.bat
+|           |   |   Makefile
+|           |   |   
+|           |   \---source
+|           |       |   basics.rst
+|           |       |   complex-plugin.rst
+|           |       |   conf.py
+|           |       |   index.rst
+|           |       |   simple-plugin.rst
+|           |       |   symbol-tables.rst
+|           |       |   using-as-a-library.rst
+|           |       |   vol-cli.rst
+|           |       |   vol2to3.rst
+|           |       |   
+|           |       \---_static
+|           |               favicon.ico
+|           |               vol.png
+|           |               
+|           \---volatility3
+|               |   __init__.py
+|               |   
+|               +---cli
+|               |   |   text_renderer.py
+|               |   |   volargparse.py
+|               |   |   __init__.py
+|               |   |   
+|               |   +---volshell
+|               |   |       generic.py
+|               |   |       linux.py
+|               |   |       mac.py
+|               |   |       windows.py
+|               |   |       __init__.py
+|               |   |       
+|               |   \---__pycache__
+|               |           text_renderer.cpython-38.pyc
+|               |           volargparse.cpython-38.pyc
+|               |           __init__.cpython-38.pyc
+|               |           
+|               +---framework
+|               |   |   exceptions.py
+|               |   |   __init__.py
+|               |   |   
+|               |   +---automagic
+|               |   |   |   construct_layers.py
+|               |   |   |   linux.py
+|               |   |   |   mac.py
+|               |   |   |   pdbscan.py
+|               |   |   |   stacker.py
+|               |   |   |   symbol_cache.py
+|               |   |   |   symbol_finder.py
+|               |   |   |   windows.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           construct_layers.cpython-38.pyc
+|               |   |           linux.cpython-38.pyc
+|               |   |           mac.cpython-38.pyc
+|               |   |           pdbscan.cpython-38.pyc
+|               |   |           stacker.cpython-38.pyc
+|               |   |           symbol_cache.cpython-38.pyc
+|               |   |           symbol_finder.cpython-38.pyc
+|               |   |           windows.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---configuration
+|               |   |   |   requirements.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           requirements.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---constants
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   +---linux
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---windows
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   \---__pycache__
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---contexts
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---interfaces
+|               |   |   |   automagic.py
+|               |   |   |   configuration.py
+|               |   |   |   context.py
+|               |   |   |   layers.py
+|               |   |   |   objects.py
+|               |   |   |   plugins.py
+|               |   |   |   renderers.py
+|               |   |   |   symbols.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           automagic.cpython-38.pyc
+|               |   |           configuration.cpython-38.pyc
+|               |   |           context.cpython-38.pyc
+|               |   |           layers.cpython-38.pyc
+|               |   |           objects.cpython-38.pyc
+|               |   |           plugins.cpython-38.pyc
+|               |   |           renderers.cpython-38.pyc
+|               |   |           symbols.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---layers
+|               |   |   |   crash.py
+|               |   |   |   elf.py
+|               |   |   |   intel.py
+|               |   |   |   lime.py
+|               |   |   |   linear.py
+|               |   |   |   msf.py
+|               |   |   |   physical.py
+|               |   |   |   qemu.py
+|               |   |   |   registry.py
+|               |   |   |   resources.py
+|               |   |   |   segmented.py
+|               |   |   |   vmware.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   +---codecs
+|               |   |   |       __init__.py
+|               |   |   |       
+|               |   |   +---scanners
+|               |   |   |   |   multiregexp.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           multiregexp.cpython-38.pyc
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   \---__pycache__
+|               |   |           crash.cpython-38.pyc
+|               |   |           elf.cpython-38.pyc
+|               |   |           intel.cpython-38.pyc
+|               |   |           lime.cpython-38.pyc
+|               |   |           linear.cpython-38.pyc
+|               |   |           msf.cpython-38.pyc
+|               |   |           physical.cpython-38.pyc
+|               |   |           qemu.cpython-38.pyc
+|               |   |           registry.cpython-38.pyc
+|               |   |           resources.cpython-38.pyc
+|               |   |           segmented.cpython-38.pyc
+|               |   |           vmware.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---objects
+|               |   |   |   templates.py
+|               |   |   |   utility.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           templates.cpython-38.pyc
+|               |   |           utility.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---plugins
+|               |   |   |   banners.py
+|               |   |   |   configwriter.py
+|               |   |   |   frameworkinfo.py
+|               |   |   |   isfinfo.py
+|               |   |   |   layerwriter.py
+|               |   |   |   timeliner.py
+|               |   |   |   yarascan.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   +---linux
+|               |   |   |   |   bash.py
+|               |   |   |   |   check_afinfo.py
+|               |   |   |   |   check_creds.py
+|               |   |   |   |   check_idt.py
+|               |   |   |   |   check_modules.py
+|               |   |   |   |   check_syscall.py
+|               |   |   |   |   elfs.py
+|               |   |   |   |   keyboard_notifiers.py
+|               |   |   |   |   lsmod.py
+|               |   |   |   |   lsof.py
+|               |   |   |   |   malfind.py
+|               |   |   |   |   proc.py
+|               |   |   |   |   pslist.py
+|               |   |   |   |   pstree.py
+|               |   |   |   |   tty_check.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           bash.cpython-38.pyc
+|               |   |   |           check_afinfo.cpython-38.pyc
+|               |   |   |           check_creds.cpython-38.pyc
+|               |   |   |           check_idt.cpython-38.pyc
+|               |   |   |           check_modules.cpython-38.pyc
+|               |   |   |           check_syscall.cpython-38.pyc
+|               |   |   |           elfs.cpython-38.pyc
+|               |   |   |           keyboard_notifiers.cpython-38.pyc
+|               |   |   |           lsmod.cpython-38.pyc
+|               |   |   |           lsof.cpython-38.pyc
+|               |   |   |           malfind.cpython-38.pyc
+|               |   |   |           proc.cpython-38.pyc
+|               |   |   |           pslist.cpython-38.pyc
+|               |   |   |           pstree.cpython-38.pyc
+|               |   |   |           tty_check.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---mac
+|               |   |   |   |   bash.py
+|               |   |   |   |   check_syscall.py
+|               |   |   |   |   check_sysctl.py
+|               |   |   |   |   check_trap_table.py
+|               |   |   |   |   ifconfig.py
+|               |   |   |   |   kauth_listeners.py
+|               |   |   |   |   kauth_scopes.py
+|               |   |   |   |   kevents.py
+|               |   |   |   |   list_files.py
+|               |   |   |   |   lsmod.py
+|               |   |   |   |   lsof.py
+|               |   |   |   |   malfind.py
+|               |   |   |   |   mount.py
+|               |   |   |   |   netstat.py
+|               |   |   |   |   proc_maps.py
+|               |   |   |   |   psaux.py
+|               |   |   |   |   pslist.py
+|               |   |   |   |   pstree.py
+|               |   |   |   |   socket_filters.py
+|               |   |   |   |   timers.py
+|               |   |   |   |   trustedbsd.py
+|               |   |   |   |   vfsevents.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           bash.cpython-38.pyc
+|               |   |   |           check_syscall.cpython-38.pyc
+|               |   |   |           check_sysctl.cpython-38.pyc
+|               |   |   |           check_trap_table.cpython-38.pyc
+|               |   |   |           ifconfig.cpython-38.pyc
+|               |   |   |           kauth_listeners.cpython-38.pyc
+|               |   |   |           kauth_scopes.cpython-38.pyc
+|               |   |   |           kevents.cpython-38.pyc
+|               |   |   |           list_files.cpython-38.pyc
+|               |   |   |           lsmod.cpython-38.pyc
+|               |   |   |           lsof.cpython-38.pyc
+|               |   |   |           malfind.cpython-38.pyc
+|               |   |   |           mount.cpython-38.pyc
+|               |   |   |           netstat.cpython-38.pyc
+|               |   |   |           proc_maps.cpython-38.pyc
+|               |   |   |           psaux.cpython-38.pyc
+|               |   |   |           pslist.cpython-38.pyc
+|               |   |   |           pstree.cpython-38.pyc
+|               |   |   |           socket_filters.cpython-38.pyc
+|               |   |   |           timers.cpython-38.pyc
+|               |   |   |           trustedbsd.cpython-38.pyc
+|               |   |   |           vfsevents.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---windows
+|               |   |   |   |   bigpools.py
+|               |   |   |   |   cachedump.py
+|               |   |   |   |   callbacks.py
+|               |   |   |   |   cmdline.py
+|               |   |   |   |   dlllist.py
+|               |   |   |   |   driverirp.py
+|               |   |   |   |   driverscan.py
+|               |   |   |   |   dumpfiles.py
+|               |   |   |   |   envars.py
+|               |   |   |   |   filescan.py
+|               |   |   |   |   getservicesids.py
+|               |   |   |   |   getsids.py
+|               |   |   |   |   handles.py
+|               |   |   |   |   hashdump.py
+|               |   |   |   |   info.py
+|               |   |   |   |   lsadump.py
+|               |   |   |   |   malfind.py
+|               |   |   |   |   memmap.py
+|               |   |   |   |   modscan.py
+|               |   |   |   |   modules.py
+|               |   |   |   |   mutantscan.py
+|               |   |   |   |   netscan.py
+|               |   |   |   |   poolscanner.py
+|               |   |   |   |   privileges.py
+|               |   |   |   |   pslist.py
+|               |   |   |   |   psscan.py
+|               |   |   |   |   pstree.py
+|               |   |   |   |   sids_and_privileges.json
+|               |   |   |   |   ssdt.py
+|               |   |   |   |   strings.py
+|               |   |   |   |   svcscan.py
+|               |   |   |   |   symlinkscan.py
+|               |   |   |   |   vadinfo.py
+|               |   |   |   |   vadyarascan.py
+|               |   |   |   |   verinfo.py
+|               |   |   |   |   virtmap.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   +---registry
+|               |   |   |   |   |   hivelist.py
+|               |   |   |   |   |   hivescan.py
+|               |   |   |   |   |   printkey.py
+|               |   |   |   |   |   userassist.json
+|               |   |   |   |   |   userassist.py
+|               |   |   |   |   |   __init__.py
+|               |   |   |   |   |   
+|               |   |   |   |   \---__pycache__
+|               |   |   |   |           hivelist.cpython-38.pyc
+|               |   |   |   |           hivescan.cpython-38.pyc
+|               |   |   |   |           printkey.cpython-38.pyc
+|               |   |   |   |           userassist.cpython-38.pyc
+|               |   |   |   |           
+|               |   |   |   \---__pycache__
+|               |   |   |           bigpools.cpython-38.pyc
+|               |   |   |           cachedump.cpython-38.pyc
+|               |   |   |           callbacks.cpython-38.pyc
+|               |   |   |           cmdline.cpython-38.pyc
+|               |   |   |           dlllist.cpython-38.pyc
+|               |   |   |           driverirp.cpython-38.pyc
+|               |   |   |           driverscan.cpython-38.pyc
+|               |   |   |           dumpfiles.cpython-38.pyc
+|               |   |   |           envars.cpython-38.pyc
+|               |   |   |           filescan.cpython-38.pyc
+|               |   |   |           getservicesids.cpython-38.pyc
+|               |   |   |           getsids.cpython-38.pyc
+|               |   |   |           handles.cpython-38.pyc
+|               |   |   |           hashdump.cpython-38.pyc
+|               |   |   |           info.cpython-38.pyc
+|               |   |   |           lsadump.cpython-38.pyc
+|               |   |   |           malfind.cpython-38.pyc
+|               |   |   |           memmap.cpython-38.pyc
+|               |   |   |           modscan.cpython-38.pyc
+|               |   |   |           modules.cpython-38.pyc
+|               |   |   |           mutantscan.cpython-38.pyc
+|               |   |   |           netscan.cpython-38.pyc
+|               |   |   |           poolscanner.cpython-38.pyc
+|               |   |   |           privileges.cpython-38.pyc
+|               |   |   |           pslist.cpython-38.pyc
+|               |   |   |           psscan.cpython-38.pyc
+|               |   |   |           pstree.cpython-38.pyc
+|               |   |   |           ssdt.cpython-38.pyc
+|               |   |   |           strings.cpython-38.pyc
+|               |   |   |           svcscan.cpython-38.pyc
+|               |   |   |           symlinkscan.cpython-38.pyc
+|               |   |   |           vadinfo.cpython-38.pyc
+|               |   |   |           vadyarascan.cpython-38.pyc
+|               |   |   |           verinfo.cpython-38.pyc
+|               |   |   |           virtmap.cpython-38.pyc
+|               |   |   |           
+|               |   |   \---__pycache__
+|               |   |           banners.cpython-38.pyc
+|               |   |           configwriter.cpython-38.pyc
+|               |   |           frameworkinfo.cpython-38.pyc
+|               |   |           isfinfo.cpython-38.pyc
+|               |   |           layerwriter.cpython-38.pyc
+|               |   |           timeliner.cpython-38.pyc
+|               |   |           yarascan.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---renderers
+|               |   |   |   conversion.py
+|               |   |   |   format_hints.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           conversion.cpython-38.pyc
+|               |   |           format_hints.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---symbols
+|               |   |   |   intermed.py
+|               |   |   |   metadata.py
+|               |   |   |   native.py
+|               |   |   |   wrappers.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   +---generic
+|               |   |   |   |   qemu.json
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---linux
+|               |   |   |   |   bash.py
+|               |   |   |   |   bash32.json
+|               |   |   |   |   bash64.json
+|               |   |   |   |   elf.json
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   +---extensions
+|               |   |   |   |   |   bash.py
+|               |   |   |   |   |   elf.py
+|               |   |   |   |   |   __init__.py
+|               |   |   |   |   |   
+|               |   |   |   |   \---__pycache__
+|               |   |   |   |           bash.cpython-38.pyc
+|               |   |   |   |           elf.cpython-38.pyc
+|               |   |   |   |           __init__.cpython-38.pyc
+|               |   |   |   |           
+|               |   |   |   \---__pycache__
+|               |   |   |           bash.cpython-38.pyc
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---mac
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   +---extensions
+|               |   |   |   |   |   __init__.py
+|               |   |   |   |   |   
+|               |   |   |   |   \---__pycache__
+|               |   |   |   |           __init__.cpython-38.pyc
+|               |   |   |   |           
+|               |   |   |   \---__pycache__
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   +---windows
+|               |   |   |   |   bigpools-vista-x64.json
+|               |   |   |   |   bigpools-vista-x86.json
+|               |   |   |   |   bigpools-win10-x64.json
+|               |   |   |   |   bigpools-win10-x86.json
+|               |   |   |   |   bigpools-x64.json
+|               |   |   |   |   bigpools-x86.json
+|               |   |   |   |   callbacks-x64.json
+|               |   |   |   |   callbacks-x86.json
+|               |   |   |   |   crash.json
+|               |   |   |   |   crash64.json
+|               |   |   |   |   kdbg.json
+|               |   |   |   |   netscan-vista-sp12-x64.json
+|               |   |   |   |   netscan-vista-x64.json
+|               |   |   |   |   netscan-vista-x86.json
+|               |   |   |   |   netscan-win10-14393-x86.json
+|               |   |   |   |   netscan-win10-15063-x64.json
+|               |   |   |   |   netscan-win10-15063-x86.json
+|               |   |   |   |   netscan-win10-16299-x64.json
+|               |   |   |   |   netscan-win10-17134-x64.json
+|               |   |   |   |   netscan-win10-17134-x86.json
+|               |   |   |   |   netscan-win10-17763-x64.json
+|               |   |   |   |   netscan-win10-18363-x64.json
+|               |   |   |   |   netscan-win10-19041-x64.json
+|               |   |   |   |   netscan-win10-19041-x86.json
+|               |   |   |   |   netscan-win10-x64.json
+|               |   |   |   |   netscan-win10-x86.json
+|               |   |   |   |   netscan-win7-x64.json
+|               |   |   |   |   netscan-win7-x86.json
+|               |   |   |   |   netscan-win8-x64.json
+|               |   |   |   |   netscan-win8-x86.json
+|               |   |   |   |   netscan-win81-x64.json
+|               |   |   |   |   netscan-win81-x86.json
+|               |   |   |   |   pdb.json
+|               |   |   |   |   pdbconv.py
+|               |   |   |   |   pdbutil.py
+|               |   |   |   |   pe.json
+|               |   |   |   |   poolheader-x64-win7.json
+|               |   |   |   |   poolheader-x64.json
+|               |   |   |   |   poolheader-x86.json
+|               |   |   |   |   registry.json
+|               |   |   |   |   services-vista-x64.json
+|               |   |   |   |   services-vista-x86.json
+|               |   |   |   |   services-win10-15063-x64.json
+|               |   |   |   |   services-win10-15063-x86.json
+|               |   |   |   |   services-win10-16299-x64.json
+|               |   |   |   |   services-win10-16299-x86.json
+|               |   |   |   |   services-win8-x64.json
+|               |   |   |   |   services-win8-x86.json
+|               |   |   |   |   services-xp-2003-x64.json
+|               |   |   |   |   services-xp-x86.json
+|               |   |   |   |   versions.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   +---extensions
+|               |   |   |   |   |   kdbg.py
+|               |   |   |   |   |   network.py
+|               |   |   |   |   |   pe.py
+|               |   |   |   |   |   pool.py
+|               |   |   |   |   |   registry.py
+|               |   |   |   |   |   services.py
+|               |   |   |   |   |   __init__.py
+|               |   |   |   |   |   
+|               |   |   |   |   \---__pycache__
+|               |   |   |   |           kdbg.cpython-38.pyc
+|               |   |   |   |           network.cpython-38.pyc
+|               |   |   |   |           pe.cpython-38.pyc
+|               |   |   |   |           pool.cpython-38.pyc
+|               |   |   |   |           registry.cpython-38.pyc
+|               |   |   |   |           services.cpython-38.pyc
+|               |   |   |   |           __init__.cpython-38.pyc
+|               |   |   |   |           
+|               |   |   |   \---__pycache__
+|               |   |   |           pdbconv.cpython-38.pyc
+|               |   |   |           pdbutil.cpython-38.pyc
+|               |   |   |           versions.cpython-38.pyc
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   \---__pycache__
+|               |   |           intermed.cpython-38.pyc
+|               |   |           metadata.cpython-38.pyc
+|               |   |           native.cpython-38.pyc
+|               |   |           wrappers.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   \---__pycache__
+|               |           exceptions.cpython-38.pyc
+|               |           __init__.cpython-38.pyc
+|               |           
+|               +---plugins
+|               |   |   __init__.py
+|               |   |   
+|               |   +---linux
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---mac
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   \---__pycache__
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   +---windows
+|               |   |   |   statistics.py
+|               |   |   |   __init__.py
+|               |   |   |   
+|               |   |   +---registry
+|               |   |   |   |   certificates.py
+|               |   |   |   |   __init__.py
+|               |   |   |   |   
+|               |   |   |   \---__pycache__
+|               |   |   |           certificates.cpython-38.pyc
+|               |   |   |           __init__.cpython-38.pyc
+|               |   |   |           
+|               |   |   \---__pycache__
+|               |   |           statistics.cpython-38.pyc
+|               |   |           __init__.cpython-38.pyc
+|               |   |           
+|               |   \---__pycache__
+|               |           __init__.cpython-38.pyc
+|               |           
+|               +---schemas
+|               |   |   schema-0.1.0.json
+|               |   |   schema-2.0.0.json
+|               |   |   schema-2.1.0.json
+|               |   |   schema-4.0.0.json
+|               |   |   schema-4.1.0.json
+|               |   |   schema-6.0.0.json
+|               |   |   schema-6.1.0.json
+|               |   |   schema-6.2.0.json
+|               |   |   __init__.py
+|               |   |   
+|               |   \---__pycache__
+|               |           __init__.cpython-38.pyc
+|               |           
+|               +---symbols
+|               |   |   __init__.py
+|               |   |   
+|               |   \---__pycache__
+|               |           __init__.cpython-38.pyc
+|               |           
+|               \---__pycache__
+|                       __init__.cpython-38.pyc
+|                       
++---Chapter 2
+|       bhp_net.py
+|       bhp_reverse_ssh_cmd.py
+|       bhp_ssh_cmd.py
+|       bhp_ssh_server.py
+|       tcp_client.py
+|       tcp_proxy.py
+|       tcp_server.py
+|       udp_client.py
+|       
++---Chapter 3
+|       scanner.py
+|       sniffer.py
+|       sniffer_ip_header_decode.py
+|       sniffer_with_icmp.py
+|       
++---Chapter 4
+|       arper.py
+|       mail_sniffer.py
+|       pic_carver.py
+|       
++---Chapter 5
+|   |   all.txt
+|   |   cain.txt
+|   |   content_bruter.py
+|   |   joomla_killer.py
+|   |   web_app_mapper.py
+|   |   wordpress_killer.py
+|   |   
+|   \---.ipynb_checkpoints
++---Chapter 6
+|       bhp_bing.py
+|       bhp_fuzzer.py
+|       bhp_wordlist.py
+|       
++---Chapter 7
+|   |   git_trojan.py
+|   |   
+|   +---config
+|   |       abc.json
+|   |       
+|   +---data
+|   |       sample.txt
+|   |       
+|   \---modules
+|           dirlister.py
+|           environment.py
+|           
++---Chapter 8
+|       keylogger.py
+|       sandbox_detector.py
+|       screenshotter.py
+|       shell_exec.py
+|       
+\---Chapter 9
+        cred_server.py
+        decryptor.py
+        ie_exfil.py
+        keygen.py
+        mitb.py
+        
