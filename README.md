@@ -1,6 +1,10 @@
 # Code and exercises from the book "Black Hat Python: Python Programming for Hackers and Pentesters" 
 Examples, source code and exercises from the book "Black Hat Python" by Justin Seitz.
 
+![](https://img.shields.io/github/stars/carloocchiena/blackhat_python_book_code?style=social)
+
+![](https://img.shields.io/tokei/lines/github/carloocchiena/blackhat_python_book_code)
+
 ![image](https://user-images.githubusercontent.com/57464184/138901408-984413ab-2648-4dbe-b40c-37ac7b59fc63.png)
 
 --------------------------------
