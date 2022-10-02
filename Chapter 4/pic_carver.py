@@ -1,5 +1,5 @@
 import cv2
-from kamane.all import *
+from kamene.all import *
 
 pictures_directory = "pic_carver/pictures"
 faces_directory = "pic_carver/faces"
@@ -96,10 +96,3 @@ carved_img, faces_dtct = http_assembler(pcap_file)
 
 print(f"Exctracted: {carved_images} images")
 print(f"Detected: {face_detected} faces")
-
-
-
-
-
-
-
