@@ -1,4 +1,4 @@
-# Code and exercises from the book "Black Hat Python: Python Programming for Hackers and Pentesters" 
+# Code and exercises from the book "Black Hat Python: Python Programming for Hackers and Pentesters", refactored and ported to Python 3 
 Examples, source code and exercises from the book "Black Hat Python" by Justin Seitz.
 
 ![](https://img.shields.io/github/stars/carloocchiena/blackhat_python_book_code?style=social)
