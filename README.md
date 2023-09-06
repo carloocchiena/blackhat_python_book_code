@@ -120,7 +120,8 @@ When needed, an additional `README.md`has been added inside each chapter folder 
 --------------------------------
 
 ### Contributions
-All contributions are generally welcome :).<br>
+All contributions are welcome :).<br>
 Since I have not (yet?) made a specific routine for that, please follow a best-practice, common-sense based approach, opening an Issue first and starting a discussion on the change you'd wish to make.<br>
 As a starting point, in each chapter folder I stated any known issues if any. <br>
+A list of contributor will be displayed in the README of the repository.
 
